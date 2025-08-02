@@ -11,6 +11,7 @@ function App() {
     <h1>
       Yo Soy Ayush
     </h1>
+    <p>Yo Soy Un Hombre, Yo necesito una mujer. Mi amor, Mi amigo, Mi casa</p>
     </>
   )
 }
